@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Youtubee
 * Plugin URI: http://www.cubidesigns.co.uk
-* Description: Adds youtube videos anywhere on your site using the shortcode:
+* Description: Adds youtube videos anywhere on your site using the shortcode generated when the user enters the YouTube URL
 * Version: 1.0
 * Author: Reece McDonald
 * Author URI: http://www.cubidesigns.co.uk
