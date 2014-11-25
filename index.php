@@ -9,7 +9,7 @@
 */
 function youtubee_scripts()
 {
-	wp_enqueue_style('youtubee.css', 'css/youtubee.css');
+	wp_enqueue_style('youtubee.css', '/wp-content/plugins/Youtubee/css/youtubee.css');
 }
 function youtubee_addin()
 {
