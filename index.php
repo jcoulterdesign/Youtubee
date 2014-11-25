@@ -7,3 +7,12 @@
 * Author: Reece McDonald
 * Author URI: http://www.cubidesigns.co.uk
 */
+
+function youtube_addin()
+
+{
+	
+	
+}
+
+add_shortcode('youtubee','youtube_addin');
