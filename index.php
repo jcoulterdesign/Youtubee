@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Youtubee
+* Plugin Name: Youtubee
 * Plugin URI: http://www.cubidesigns.co.uk
 * Description: Adds youtube videos anywhere on your site using the shortcode generated when the user enters the YouTube URL
 * Version: 1.0
